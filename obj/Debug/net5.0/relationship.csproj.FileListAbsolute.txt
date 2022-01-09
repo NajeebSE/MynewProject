@@ -1,0 +1,9 @@
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.csprojAssemblyReference.cache
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.RazorAssemblyInfo.cache
+C:\Users\Sagar\source\repos\Relationship\obj\Debug\net5.0\Relationship.RazorAssemblyInfo.cs
